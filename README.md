@@ -36,6 +36,9 @@ Please see installation instructions on http://brew.sh
 After finishing with HomeBrew, go to https://gradle.org/install/
 and find Installation instruction with HomeBrew.
 
+Gradle Wrapper installation as stated in Video, but execution for build as follows
+  $ ./gradlew build
+  
 ```
 Give the example
 ```
