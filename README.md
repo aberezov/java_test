@@ -5,6 +5,7 @@ Java for Testers online course.
  - Install and configure Java
  - Create GitHub user/repository
  - Github Desktop
+ - Install Gradle
  - IntelliJ IDEA CE
 
 ### Prerequisites
@@ -29,6 +30,11 @@ Prepare MACOSX for course requirements:
         $ javac -version
         $ echo $JAVA_HOME
      Ensure all above lines return proper info.
+
+Next we need Gradle installation, first install HomeBrew package manager
+Please see installation instructions on http://brew.sh
+After finishing with HomeBrew, go to https://gradle.org/install/
+and find Installation instruction with HomeBrew.
 
 ```
 Give the example
